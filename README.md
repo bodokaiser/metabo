@@ -2,7 +2,14 @@
 
 Nuclear Magnetic Resonance spectroscopy with [human metabolism database][HMDB].
 
-## Metabolities linked to
+## Metabolities
+
+linked to
+
+### Nutrition
+
+* [D-Glucose](http://www.hmdb.ca/metabolites/HMDB00122)
+* [Methanol](http://www.hmdb.ca/metabolites/HMDB01875)
 
 ### Lung Cancer
 
