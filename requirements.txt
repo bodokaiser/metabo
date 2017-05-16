@@ -1,0 +1,5 @@
+numpy ~= 1.12
+scipy ~= 0.19
+jupyter ~= 1.0
+nmrglue ~= 0.6
+matplotlib ~= 2.0
